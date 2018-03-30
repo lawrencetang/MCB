@@ -1,0 +1,15 @@
+.\output\eeprom.o: Source\AppDriver\src\eeprom.c
+.\output\eeprom.o: .\Source\uCOS-II\Source\ucos_ii.h
+.\output\eeprom.o: .\Source\Application\inc\app_cfg.h
+.\output\eeprom.o: .\Source\Application\inc\os_cfg.h
+.\output\eeprom.o: .\Source\uCOS-II\Ports\os_cpu.h
+.\output\eeprom.o: .\Source\AppDriver\inc\eeprom.h
+.\output\eeprom.o: .\Source\stm32f10xDriver\inc\stm32f10x_type.h
+.\output\eeprom.o: .\Source\stm32f10xDriver\inc\stm32f10x_gpio.h
+.\output\eeprom.o: .\Source\stm32f10xDriver\inc\stm32f10x_map.h
+.\output\eeprom.o: .\Source\stm32f10xDriver\inc\stm32f10x_conf.h
+.\output\eeprom.o: .\Source\stm32f10xDriver\inc\cortexm3_macro.h
+.\output\eeprom.o: .\Source\stm32f10xDriver\inc\stm32f10x.h
+.\output\eeprom.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\output\eeprom.o: .\Source\AppDriver\inc\frame.h
+.\output\eeprom.o: .\Source\AppDriver\inc\common.h

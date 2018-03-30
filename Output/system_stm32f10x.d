@@ -1,0 +1,9 @@
+.\output\system_stm32f10x.o: Source\AppDriver\src\system_stm32f10x.c
+.\output\system_stm32f10x.o: .\Source\stm32f10xDriver\inc\stm32f10x_map.h
+.\output\system_stm32f10x.o: .\Source\stm32f10xDriver\inc\stm32f10x_conf.h
+.\output\system_stm32f10x.o: .\Source\stm32f10xDriver\inc\stm32f10x_type.h
+.\output\system_stm32f10x.o: .\Source\stm32f10xDriver\inc\cortexm3_macro.h
+.\output\system_stm32f10x.o: .\Source\stm32f10xDriver\inc\stm32f10x.h
+.\output\system_stm32f10x.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\output\system_stm32f10x.o: .\Source\AppDriver\inc\bsp.h
+.\output\system_stm32f10x.o: .\Source\stm32f10xDriver\inc\stm32f10x_rcc.h

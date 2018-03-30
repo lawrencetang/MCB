@@ -1,0 +1,11 @@
+.\output\adcdriver.o: Source\AppDriver\src\adcDriver.c
+.\output\adcdriver.o: .\Source\AppDriver\inc\adcDriver.h
+.\output\adcdriver.o: .\Source\stm32f10xDriver\inc\stm32f10x_gpio.h
+.\output\adcdriver.o: .\Source\stm32f10xDriver\inc\stm32f10x_map.h
+.\output\adcdriver.o: .\Source\stm32f10xDriver\inc\stm32f10x_conf.h
+.\output\adcdriver.o: .\Source\stm32f10xDriver\inc\stm32f10x_type.h
+.\output\adcdriver.o: .\Source\stm32f10xDriver\inc\cortexm3_macro.h
+.\output\adcdriver.o: .\Source\stm32f10xDriver\inc\stm32f10x.h
+.\output\adcdriver.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\output\adcdriver.o: .\Source\stm32f10xDriver\inc\stm32f10x_adc.h
+.\output\adcdriver.o: .\Source\stm32f10xDriver\inc\stm32f10x_dma.h

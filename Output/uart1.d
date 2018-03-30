@@ -1,0 +1,11 @@
+.\output\uart1.o: Source\AppDriver\src\uart1.c
+.\output\uart1.o: .\Source\stm32f10xDriver\inc\stm32f10x_usart.h
+.\output\uart1.o: .\Source\stm32f10xDriver\inc\stm32f10x_map.h
+.\output\uart1.o: .\Source\stm32f10xDriver\inc\stm32f10x_conf.h
+.\output\uart1.o: .\Source\stm32f10xDriver\inc\stm32f10x_type.h
+.\output\uart1.o: .\Source\stm32f10xDriver\inc\cortexm3_macro.h
+.\output\uart1.o: .\Source\stm32f10xDriver\inc\stm32f10x.h
+.\output\uart1.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\output\uart1.o: .\Source\AppDriver\inc\uart1.h
+.\output\uart1.o: .\Source\stm32f10xDriver\inc\stm32f10x_gpio.h
+.\output\uart1.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h

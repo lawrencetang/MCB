@@ -1,0 +1,75 @@
+*** Creating Trace Output File '.\Output\KOSPE-CTRL-V.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\output\main.o"'
+### List of Objects: adding '".\output\task.o"'
+### List of Objects: adding '".\output\taskinit.o"'
+### List of Objects: adding '".\output\bsp.o"'
+### List of Objects: adding '".\output\frame.o"'
+### List of Objects: adding '".\output\nvic.o"'
+### List of Objects: adding '".\output\queue.o"'
+### List of Objects: adding '".\output\stm32f10x_it.o"'
+### List of Objects: adding '".\output\timer2.o"'
+### List of Objects: adding '".\output\system_stm32f10x.o"'
+### List of Objects: adding '".\output\common.o"'
+### List of Objects: adding '".\output\os_core.o"'
+### List of Objects: adding '".\output\os_flag.o"'
+### List of Objects: adding '".\output\os_mbox.o"'
+### List of Objects: adding '".\output\os_mem.o"'
+### List of Objects: adding '".\output\os_mutex.o"'
+### List of Objects: adding '".\output\os_q.o"'
+### List of Objects: adding '".\output\os_sem.o"'
+### List of Objects: adding '".\output\os_task.o"'
+### List of Objects: adding '".\output\os_time.o"'
+### List of Objects: adding '".\output\os_tmr.o"'
+### List of Objects: adding '".\output\os_cpu_a.o"'
+### List of Objects: adding '".\output\os_cpu_c.o"'
+### List of Objects: adding '".\output\os_dbg.o"'
+### List of Objects: adding '".\output\hw_config.o"'
+### List of Objects: adding '".\output\usb_desc.o"'
+### List of Objects: adding '".\output\usb_endp.o"'
+### List of Objects: adding '".\output\usb_istr.o"'
+### List of Objects: adding '".\output\usb_prop.o"'
+### List of Objects: adding '".\output\usb_pwr.o"'
+### List of Objects: adding '".\output\usb_core.o"'
+### List of Objects: adding '".\output\usb_init.o"'
+### List of Objects: adding '".\output\usb_int.o"'
+### List of Objects: adding '".\output\usb_mem.o"'
+### List of Objects: adding '".\output\usb_regs.o"'
+### List of Objects: adding '".\output\stm32f10x_adc.o"'
+### List of Objects: adding '".\output\stm32f10x_bkp.o"'
+### List of Objects: adding '".\output\stm32f10x_crc.o"'
+### List of Objects: adding '".\output\stm32f10x_dac.o"'
+### List of Objects: adding '".\output\stm32f10x_dbgmcu.o"'
+### List of Objects: adding '".\output\stm32f10x_dma.o"'
+### List of Objects: adding '".\output\stm32f10x_exti.o"'
+### List of Objects: adding '".\output\stm32f10x_flash.o"'
+### List of Objects: adding '".\output\stm32f10x_gpio.o"'
+### List of Objects: adding '".\output\stm32f10x_i2c.o"'
+### List of Objects: adding '".\output\stm32f10x_lib.o"'
+### List of Objects: adding '".\output\stm32f10x_nvic.o"'
+### List of Objects: adding '".\output\stm32f10x_pwr.o"'
+### List of Objects: adding '".\output\stm32f10x_rcc.o"'
+### List of Objects: adding '".\output\stm32f10x_sdio.o"'
+### List of Objects: adding '".\output\stm32f10x_spi.o"'
+### List of Objects: adding '".\output\stm32f10x_systick.o"'
+### List of Objects: adding '".\output\stm32f10x_tim.o"'
+### List of Objects: adding '".\output\stm32f10x_usart.o"'
+### List of Objects: adding '".\output\stm32f10x_rtc.o"'
+### List of Objects: adding '".\output\stm32f10x_startup.o"'
+### List of Objects: adding '".\output\cortexm3_macro.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\output\main.o" ".\output\task.o" ".\output\taskinit.o" ".\output\bsp.o" ".\output\frame.o" ".\output\nvic.o" ".\output\queue.o" ".\output\stm32f10x_it.o" ".\output\timer2.o" ".\output\system_stm32f10x.o" ".\output\common.o" ".\output\os_core.o" ".\output\os_flag.o" ".\output\os_mbox.o" ".\output\os_mem.o" ".\output\os_mutex.o" ".\output\os_q.o" ".\output\os_sem.o" ".\output\os_task.o" ".\output\os_time.o" ".\output\os_tmr.o" ".\output\os_cpu_a.o" ".\output\os_cpu_c.o" ".\output\os_dbg.o" ".\output\hw_config.o" ".\output\usb_desc.o" ".\output\usb_endp.o" ".\output\usb_istr.o" ".\output\usb_prop.o" ".\output\usb_pwr.o" ".\output\usb_core.o" ".\output\usb_init.o" ".\output\usb_int.o" ".\output\usb_mem.o" ".\output\usb_regs.o" ".\output\stm32f10x_adc.o" ".\output\stm32f10x_bkp.o" ".\output\stm32f10x_crc.o" ".\output\stm32f10x_dac.o" ".\output\stm32f10x_dbgmcu.o" ".\output\stm32f10x_dma.o" ".\output\stm32f10x_exti.o" ".\output\stm32f10x_flash.o" ".\output\stm32f10x_gpio.o" ".\output\stm32f10x_i2c.o" ".\output\stm32f10x_lib.o" ".\output\stm32f10x_nvic.o" ".\output\stm32f10x_pwr.o" ".\output\stm32f10x_rcc.o" ".\output\stm32f10x_sdio.o" ".\output\stm32f10x_spi.o" ".\output\stm32f10x_systick.o" ".\output\stm32f10x_tim.o" ".\output\stm32f10x_usart.o" ".\output\stm32f10x_rtc.o" ".\output\stm32f10x_startup.o" ".\output\cortexm3_macro.o" --strict --scatter ".\Output\KOSPE-CTRL-V.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\KOSPE-CTRL-V.map" -o ".\Output\KOSPE-CTRL-V.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\Output\KOSPE-CTRL-V.axf'
+### ADS-LD Command File: '.\Output\KOSPE-CTRL-V.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\Output\KOSPE-CTRL-V.lnp', Handle=0x00000730
+### Writing '.lnp' file
+### ADS-LD Command file '.\Output\KOSPE-CTRL-V.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

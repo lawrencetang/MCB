@@ -1,0 +1,9 @@
+.\output\timer3.o: Source\AppDriver\src\timer3.c
+.\output\timer3.o: .\Source\AppDriver\inc\timer3.h
+.\output\timer3.o: .\Source\stm32f10xDriver\inc\stm32f10x_type.h
+.\output\timer3.o: .\Source\stm32f10xDriver\inc\stm32f10x_tim.h
+.\output\timer3.o: .\Source\stm32f10xDriver\inc\stm32f10x_map.h
+.\output\timer3.o: .\Source\stm32f10xDriver\inc\stm32f10x_conf.h
+.\output\timer3.o: .\Source\stm32f10xDriver\inc\cortexm3_macro.h
+.\output\timer3.o: .\Source\stm32f10xDriver\inc\stm32f10x.h
+.\output\timer3.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h

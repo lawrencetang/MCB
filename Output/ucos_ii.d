@@ -1,0 +1,15 @@
+.\Output\ucos_ii.o: Source\uCOS-II\Source\ucos_ii.c
+.\Output\ucos_ii.o: .\Source\uCOS-II\Source\ucos_ii.h
+.\Output\ucos_ii.o: .\Source\Application\inc\app_cfg.h
+.\Output\ucos_ii.o: .\Source\Application\inc\os_cfg.h
+.\Output\ucos_ii.o: .\Source\uCOS-II\Ports\os_cpu.h
+.\Output\ucos_ii.o: .\Source\uCOS-II\Source\os_core.c
+.\Output\ucos_ii.o: .\Source\uCOS-II\Source\os_flag.c
+.\Output\ucos_ii.o: .\Source\uCOS-II\Source\os_mbox.c
+.\Output\ucos_ii.o: .\Source\uCOS-II\Source\os_mem.c
+.\Output\ucos_ii.o: .\Source\uCOS-II\Source\os_mutex.c
+.\Output\ucos_ii.o: .\Source\uCOS-II\Source\os_q.c
+.\Output\ucos_ii.o: .\Source\uCOS-II\Source\os_sem.c
+.\Output\ucos_ii.o: .\Source\uCOS-II\Source\os_task.c
+.\Output\ucos_ii.o: .\Source\uCOS-II\Source\os_time.c
+.\Output\ucos_ii.o: .\Source\uCOS-II\Source\os_tmr.c

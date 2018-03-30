@@ -1,0 +1,10 @@
+.\output\spi2.o: Source\AppDriver\src\spi2.c
+.\output\spi2.o: .\Source\stm32f10xDriver\inc\stm32f10x_spi.h
+.\output\spi2.o: .\Source\stm32f10xDriver\inc\stm32f10x_map.h
+.\output\spi2.o: .\Source\stm32f10xDriver\inc\stm32f10x_conf.h
+.\output\spi2.o: .\Source\stm32f10xDriver\inc\stm32f10x_type.h
+.\output\spi2.o: .\Source\stm32f10xDriver\inc\cortexm3_macro.h
+.\output\spi2.o: .\Source\stm32f10xDriver\inc\stm32f10x.h
+.\output\spi2.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\output\spi2.o: .\Source\AppDriver\inc\spi2.h
+.\output\spi2.o: .\Source\stm32f10xDriver\inc\stm32f10x_gpio.h

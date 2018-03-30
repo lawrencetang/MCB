@@ -1,0 +1,9 @@
+.\output\temdriver.o: Source\AppDriver\src\temDriver.c
+.\output\temdriver.o: .\Source\AppDriver\inc\temDriver.h
+.\output\temdriver.o: .\Source\stm32f10xDriver\inc\stm32f10x_gpio.h
+.\output\temdriver.o: .\Source\stm32f10xDriver\inc\stm32f10x_map.h
+.\output\temdriver.o: .\Source\stm32f10xDriver\inc\stm32f10x_conf.h
+.\output\temdriver.o: .\Source\stm32f10xDriver\inc\stm32f10x_type.h
+.\output\temdriver.o: .\Source\stm32f10xDriver\inc\cortexm3_macro.h
+.\output\temdriver.o: .\Source\stm32f10xDriver\inc\stm32f10x.h
+.\output\temdriver.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
